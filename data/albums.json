@@ -1,0 +1,36 @@
+{
+    "last_id": 4,
+    "data": [
+    {
+        "title": "New Album",
+        "artist": "New Artist",
+        "date": "2003-03-31",
+        "cover": "http://placehold.it/300x300",
+        "price": "6",
+        "id": 1
+    },
+    {
+        "title": "Some Album",
+        "artist": "Some Artist",
+        "date": "2001-01-01",
+        "cover": "http://placehold.it/300x300/fff/ccc",
+        "price": "14.99",
+        "id": 2
+    },
+    {
+        "title": "One By One",
+        "artist": "Foo Fighters",
+        "date": "2002-05-13",
+        "cover": "http://placehold.it/300x300/f0f/ccc",
+        "price": "15.99",
+        "id": 3
+    },
+    {
+        "title": "Bad Self Portraits",
+        "artist": "Lake Street Dive",
+        "date": "2014-01-04",
+        "cover": "http://placehold.it/300x300/d00/ccc",
+        "price": "12.99",
+        "id": 4
+    }]
+}
